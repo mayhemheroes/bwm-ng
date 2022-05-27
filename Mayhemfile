@@ -1,0 +1,5 @@
+project: rnshah9/bwm-ng
+target: bwm-ng
+
+cmds:
+  - cmd: /repo/src/bwm-ng -f @@ -o plain -c 1
