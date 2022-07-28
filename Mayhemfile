@@ -2,4 +2,4 @@ project: bwm-ng
 target: bwm-ng
 
 cmds:
-  - cmd: /repo/src/bwm-ng -f @@ -o plain -c 1
+  - cmd: /install/bin/bwm-ng -f @@ -o plain -c 1
